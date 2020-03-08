@@ -1,7 +1,8 @@
-package com.xiao.wanandroidself
+package com.xiao.wanandroidself.ui.activity
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.xiao.wanandroidself.R
 
 class MainActivity : AppCompatActivity() {
 
